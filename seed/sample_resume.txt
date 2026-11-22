@@ -1,0 +1,21 @@
+Aviral Mehta
+Bengaluru, India | a.mehta@mail.com | +91 98765 43210
+
+SUMMARY
+Senior backend engineer with 6 years of experience building scalable distributed systems and APIs in the cloud.
+
+EXPERIENCE
+Senior Backend Engineer, Finlytics - Jan 2022 - Present
+- Built FastAPI microservices on AWS (ECS, RDS, S3, Lambda) serving 4M requests/day; cut p95 latency by 38%.
+- Designed Kafka event pipelines for async processing; Redis caching reduced database load by 45%.
+- Containerised services with Docker and set up CI/CD with GitHub Actions.
+
+Backend Engineer, Cartly - Jul 2020 - Dec 2021
+- Developed REST APIs in Node.js and PostgreSQL for an e-commerce platform.
+- Wrote unit tests with pytest and mentored 2 junior engineers.
+
+EDUCATION
+B.Tech in Computer Science, NIT Surat, 2016 - 2020
+
+SKILLS
+Python, FastAPI, Node.js, PostgreSQL, Redis, Kafka, AWS, Docker, System Design, REST

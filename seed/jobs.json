@@ -1,0 +1,228 @@
+[
+ {
+  "title": "Senior Backend Engineer",
+  "company": "Northwind Pay",
+  "location": "Bengaluru, India",
+  "description": "Build and scale distributed payment APIs in a cloud environment. You will own services end to end, from design to on-call.",
+  "required": [
+   "Python",
+   "FastAPI",
+   "PostgreSQL",
+   "AWS",
+   "REST APIs",
+   "System Design"
+  ],
+  "nice": [
+   "Kafka",
+   "Redis",
+   "Docker",
+   "Node.js"
+  ],
+  "min_years": 5,
+  "max_years": 9
+ },
+ {
+  "title": "Backend Engineer (Node.js)",
+  "company": "Cartwheel",
+  "location": "Remote, India",
+  "description": "Develop REST and GraphQL APIs for a high-traffic marketplace using Node.js and PostgreSQL.",
+  "required": [
+   "Node.js",
+   "PostgreSQL",
+   "REST APIs",
+   "Testing"
+  ],
+  "nice": [
+   "GraphQL",
+   "Redis",
+   "Docker",
+   "AWS"
+  ],
+  "min_years": 2,
+  "max_years": 6
+ },
+ {
+  "title": "Java Backend Engineer",
+  "company": "Meridian Bank",
+  "location": "Pune, India",
+  "description": "Build event-driven Java microservices for core banking, with Kafka and Spring Boot.",
+  "required": [
+   "Java",
+   "Spring Boot",
+   "Kafka",
+   "Microservices",
+   "SQL"
+  ],
+  "nice": [
+   "Docker",
+   "Kubernetes",
+   "AWS"
+  ],
+  "min_years": 4,
+  "max_years": 8
+ },
+ {
+  "title": "Platform Engineer",
+  "company": "Stratus Labs",
+  "location": "Bengaluru, India",
+  "description": "Run the internal developer platform: Kubernetes clusters, Terraform modules and CI/CD pipelines.",
+  "required": [
+   "Kubernetes",
+   "Terraform",
+   "AWS",
+   "Docker",
+   "CI/CD",
+   "Linux"
+  ],
+  "nice": [
+   "Python",
+   "Monitoring",
+   "Go"
+  ],
+  "min_years": 4,
+  "max_years": 9
+ },
+ {
+  "title": "Site Reliability Engineer",
+  "company": "Helio Cloud",
+  "location": "Hyderabad, India",
+  "description": "Keep a multi-region SaaS reliable: define SLOs, automate incident response and improve observability.",
+  "required": [
+   "Linux",
+   "Kubernetes",
+   "Monitoring",
+   "Python",
+   "AWS"
+  ],
+  "nice": [
+   "Terraform",
+   "CI/CD",
+   "Go"
+  ],
+  "min_years": 3,
+  "max_years": 8
+ },
+ {
+  "title": "Data Engineer",
+  "company": "Quanta Retail",
+  "location": "Mumbai, India",
+  "description": "Design batch and streaming data pipelines that feed analytics and ML teams.",
+  "required": [
+   "Python",
+   "SQL",
+   "Spark",
+   "Airflow",
+   "Data Pipelines"
+  ],
+  "nice": [
+   "Kafka",
+   "AWS",
+   "PostgreSQL",
+   "Docker"
+  ],
+  "min_years": 3,
+  "max_years": 7
+ },
+ {
+  "title": "Machine Learning Engineer",
+  "company": "Vision Loop",
+  "location": "Bengaluru, India",
+  "description": "Train, evaluate and deploy computer vision and ranking models to production.",
+  "required": [
+   "Python",
+   "Machine Learning",
+   "PyTorch",
+   "Docker",
+   "Deep Learning"
+  ],
+  "nice": [
+   "AWS",
+   "scikit-learn",
+   "Kubernetes",
+   "FastAPI"
+  ],
+  "min_years": 3,
+  "max_years": 8
+ },
+ {
+  "title": "LLM Applications Engineer",
+  "company": "Lexi AI",
+  "location": "Remote, India",
+  "description": "Build retrieval-augmented assistants and evaluation harnesses on top of large language models.",
+  "required": [
+   "Python",
+   "LLMs",
+   "LangChain",
+   "NLP",
+   "REST APIs"
+  ],
+  "nice": [
+   "FastAPI",
+   "Docker",
+   "PostgreSQL",
+   "Machine Learning"
+  ],
+  "min_years": 2,
+  "max_years": 6
+ },
+ {
+  "title": "Full Stack Engineer",
+  "company": "Brightpath",
+  "location": "Gurugram, India",
+  "description": "Ship customer-facing features across a React front end and a Node.js API.",
+  "required": [
+   "React",
+   "Node.js",
+   "TypeScript",
+   "HTML/CSS",
+   "REST APIs"
+  ],
+  "nice": [
+   "PostgreSQL",
+   "Docker",
+   "AWS",
+   "Testing"
+  ],
+  "min_years": 2,
+  "max_years": 6
+ },
+ {
+  "title": "Frontend Engineer",
+  "company": "Pixel Harbor",
+  "location": "Remote, India",
+  "description": "Own the design system and performance of a React and TypeScript web app used by millions.",
+  "required": [
+   "React",
+   "TypeScript",
+   "JavaScript",
+   "HTML/CSS",
+   "Testing"
+  ],
+  "nice": [
+   "Next.js",
+   "GraphQL",
+   "Git"
+  ],
+  "min_years": 2,
+  "max_years": 7
+ },
+ {
+  "title": "Data Analyst",
+  "company": "Zenmart",
+  "location": "Chennai, India",
+  "description": "Turn product and sales data into dashboards and decisions for business teams.",
+  "required": [
+   "SQL",
+   "Tableau",
+   "Pandas",
+   "Python"
+  ],
+  "nice": [
+   "Power BI",
+   "Agile",
+   "Data Pipelines"
+  ],
+  "min_years": 1,
+  "max_years": 4
+ }
+]
