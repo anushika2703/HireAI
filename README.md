@@ -53,3 +53,6 @@ curl -X POST localhost:8000/api/jobs -H 'content-type: application/json' -d \
 - Experience comes from date ranges and “N years of experience” lines; unusual date formats are missed. Education date ranges are skipped on purpose.
 - Scanned PDFs need OCR (not included). The relevance rescaling in `ranking.relevance` is tuned for MiniLM; retune it if you change the embedding model.
 - Seed jobs are fictional. Replace `seed/jobs.json` or POST your own.
+
+## Output
+<img width="1902" height="1055" alt="image" src="https://github.com/user-attachments/assets/fb598da4-3494-4b80-b66f-ef940ff9488e" />
